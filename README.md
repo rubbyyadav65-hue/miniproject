@@ -10,7 +10,7 @@ EcoLife is a web-based project designed to promote environmental awareness and s
 - Node.js and npm, if required by the project configuration
 
 ## 3. Project Files
-- `home.html` – Main webpage, if this is the actual entry page
+- `index.html` – Main webpage, if this is the actual entry page
 - `style.css` – Website styling
 - `script.js` – Website interactions
 - `package.json` – Project configuration and available scripts
